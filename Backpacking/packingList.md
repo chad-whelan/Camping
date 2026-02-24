@@ -63,7 +63,6 @@ This is a general packing list for backpacking. Adjust items based on trip durat
 *   Hand sanitizer
 *   Toilet paper & trowel
 *   Prescription medications
-*   Sunglasses
 
 ## 🛠️ Repair & Miscellaneous
 
